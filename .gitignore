@@ -33,7 +33,6 @@ build/
 .vscode/
 
 .metadata
-.metadata/*
 bin/
 tmp/
 *.tmp
